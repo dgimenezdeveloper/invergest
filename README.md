@@ -34,10 +34,6 @@ Invergest PSI S.L. ofrece soluciones innovadoras para la gestión de alquileres,
    npm run dev
    ```
 
-## 🌐 Despliegue
-
-Puedes desplegar esta aplicación fácilmente en plataformas como **Vercel** o **Netlify** conectando tu repositorio de GitHub y siguiendo sus instrucciones para proyectos Vite/React.
-
 ---
 
-© 2025 Invergest PSI S.L. | Todos los derechos reservados
+© 2025 Invergest PSI S.L. | Desarrollado por @dgimenezdeveloper | Todos los derechos reservados
