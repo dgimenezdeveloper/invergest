@@ -1,20 +1,43 @@
+
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+  <img src="./public/images/landing-invergest.png" alt="Vista previa Invergest" width="900" />
 </div>
 
-# Run and deploy your AI Studio app
+# Invergest PSI S.L. – Gestión Inmobiliaria Integral
 
-This contains everything you need to run your app locally.
+Bienvenido al repositorio oficial de **Invergest PSI S.L.**, una plataforma web moderna y profesional para la gestión integral de inversiones inmobiliarias en España.
 
-View your app in AI Studio: https://ai.studio/apps/temp/1
+## 🚀 Descripción
 
-## Run Locally
+Invergest PSI S.L. ofrece soluciones innovadoras para la gestión de alquileres, personal shopper inmobiliario y reformas, con un enfoque transparente, eficiente y orientado al cliente. Nuestra plataforma maximiza el valor de los activos inmobiliarios, combinando tecnología y experiencia para brindar un servicio de excelencia.
 
-**Prerequisites:**  Node.js
+## 🖥️ Vista previa
 
+<div align="center">
+  <img src="./public/images/landing-invergest.png" alt="Vista previa de la landing page de Invergest" width="700" />
+</div>
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ⚙️ Instalación y uso local
+
+**Requisitos:** Node.js
+
+1. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+2. Si usas la integración con Gemini, crea un archivo `.env.local` y agrega tu clave:
+   ```env
+   GEMINI_API_KEY=tu_clave_aqui
+   ```
+3. Inicia la aplicación en modo desarrollo:
+   ```bash
+   npm run dev
+   ```
+
+## 🌐 Despliegue
+
+Puedes desplegar esta aplicación fácilmente en plataformas como **Vercel** o **Netlify** conectando tu repositorio de GitHub y siguiendo sus instrucciones para proyectos Vite/React.
+
+---
+
+© 2025 Invergest PSI S.L. | Todos los derechos reservados
